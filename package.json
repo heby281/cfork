@@ -20,7 +20,7 @@
     "eslint": "3.11.0",
     "graceful": "1",
     "istanbul": "^0.4.0",
-    "mocha": "2",
+    "mocha": "3.0.1",
     "pedding": "1",
     "should": "11.1.1",
     "urllib": "2"
